@@ -1,2 +1,1 @@
-# pyhton for absolute beginners
-## taught by Baba Aammar
+### This repository contains a comprehensive introduction to the basics of Python that can be completed in one day. This will provide a solid foundation for starting your journey in data science. I have included comments on every line to help with understanding and learning.
